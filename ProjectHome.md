@@ -1,0 +1,1 @@
+Taking picture from browser through webcam.
